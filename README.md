@@ -9,3 +9,6 @@ Ahmad_Ghanavati@yahoo.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghanavati7915)](https://github.com/Ghanavati7915/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanavati7915)](https://github.com/Ghanavati7915/github-readme-stats)
+
+
