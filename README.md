@@ -5,3 +5,7 @@
 - 📫 How to reach me :
 +98-9356967915
 Ahmad_Ghanavati@yahoo.com
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghanavati7915)](https://github.com/Ghanavati7915/github-readme-stats)
+
